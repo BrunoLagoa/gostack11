@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend.",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "backend"
+  ],
+  "author": "Bruno Castro",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "uuidv4": "^6.0.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
