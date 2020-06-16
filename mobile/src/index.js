@@ -61,6 +61,7 @@ const styles = StyleSheet.create({
   title: {
     color: '#FFF',
     fontSize: 30,
+    paddingHorizontal: 8,
   },
 
   button: {
